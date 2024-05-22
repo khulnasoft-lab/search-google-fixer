@@ -1,0 +1,11 @@
+{
+  "addonName": {
+    "message": "Search Google Fixer"
+  },
+  "addonDescription": {
+    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown to Chrome."
+  },
+  "addonAuthorsList": {
+    "message": "KhulnaSoft Lab <info@khulnasoft.com>"
+  }
+}
